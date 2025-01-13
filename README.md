@@ -1,2 +1,5 @@
 # Google_extension_forLLMautofill
-serve as a part for the final extension
+The final version <br\>
+How to use: <br\>
+Load it as an extension in Google Chrome
+
